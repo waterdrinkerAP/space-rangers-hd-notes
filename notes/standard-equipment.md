@@ -24,3 +24,11 @@ Minimum weight: 20
 | 6   | Graviton Engine   | 800   | 33         |
 | 7   | Stensor Engine    | 900   | 37         |
 | 8   | Temporal Engine   | 1000  | 41         |
+
+Ship's actual speed depends on the speed of the engine and the ship's mass.
+
+| Ship Mass           | Ship Speed Formula                                               |
+| ------------------- | ---------------------------------------------------------------- |
+| $\leq 500$          | $ShipSpeed = EngineSpeed$                                        |
+| $500 < Mass < 2000$ | $ShipSpeed = EngineSpeed \times (1.22333 - 0.00045 \times Mass)$ |
+| $\geq 2000$         | $ShipSpeed = EngineSpeed \times 0.33$                            |
