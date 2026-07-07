@@ -2,11 +2,11 @@
 
 Dominator weapons can have a slightly lower minimum weight.
 
-## Industrial Laser
+## Energy Weapons
+
+### Industrial Laser
 
 Can shoot asteroids without destroying the minerals in them.
-
-**Damage Type:** Energy
 
 | Class      | A     | B     | C     | D     | E     | F     | G     | H     |
 | ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -15,36 +15,48 @@ Can shoot asteroids without destroying the minerals in them.
 
 Minimum weight: 15 (Dominators: 14)
 
-## Fragmentation Cannon
 
-## Flux
+### Flux (aka. Lezka)
 
-## Missile Launcher
+| Class      | A    | B    | C    | D     | E     | F     | G     | H     |
+| ---------- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- |
+| **Damage** | 8-24 | 9-26 | 9-28 | 10-29 | 10-30 | 10-31 | 12-36 | 16-48 |
+| **Range**  | 315  | 332  | 332  | 350   | 350   | 367   | 367   | 385   |
 
-## Treton
+Minimum weight: 25 (Dominators: 23)
 
-## Wave Phaser
+### Treton
 
-## Flow Blaster
+### Wave Phaser
 
-## Electronic Cutter
+### Electronic Cutter
 
-## Multi-resonator
+### Atomic Vision
 
-## Atomic Vision
+### Desintegrator
 
-## Desintegrator
+### Turbogravir
 
-## Turbogravir
+### Vertix
 
-## IMHO-9000
+### Caphasitor
 
-## Vertix
+## Fragmentation Weapons
 
-## Torpedo
+### Fragmentation Cannon
 
-## Esodafer
+### Flow Blaster
 
-## Caphasitor
+### Multi-resonator
 
-## Lirecron
+### IMHO-9000
+
+### Esodafer
+
+## Missile Weapons
+
+### Missile Launcher
+
+### Torpedo
+
+### Lirecron
