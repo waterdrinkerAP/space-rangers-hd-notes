@@ -1,8 +1,11 @@
 # Weapons
 
+
 Weapons with higher speed fire earlier during the combat turn.  
 Dominator weapons can have a slightly lower minimum weight.  
-Weapons can be used for mining asteroids but some are better at it than others.
+Weapons can be used for mining asteroids but some are better at it than others.  
+Every weapon has a chance to damage the enemy's equipment on hit, but
+Electronic Cutter and IMHO-9000 are guaranteed to do so with every hit.  
 
 ## Energy Weapons
 
@@ -29,6 +32,7 @@ Weapons can be used for mining asteroids but some are better at it than others.
 | ----- | ------------------- | ----------------- |
 | 80    | 25 (Dominators: 23) | 25%               |
 
+
 ### Treton
 
 | Class      | A    | B    | C    | D    | E    | F    | G    | H    |
@@ -44,6 +48,7 @@ Weapons can be used for mining asteroids but some are better at it than others.
   This effect alone can not slow a ship down below 50% of its base speed.
 - Each shot drains life equal to the damage dealt.
 
+
 ### Wave Phaser
 
 | Class      | A     | B     | C     | D     | E     | F     | G     | H     |
@@ -58,7 +63,20 @@ Weapons can be used for mining asteroids but some are better at it than others.
 - Hits 3 targets in a chain, receiving 100%, 75% and 50% damage respectively.
 - Deals 150% damage if it hits only a single target.
 
+
 ### Electronic Cutter
+
+| Class      | A    | B    | C    | D    | E    | F    | G    | H    |
+| ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Damage** | 5-35 | 6-38 | 6-42 | 6-46 | 7-49 | 8-52 | 8-56 | 8-60 |
+| **Range**  | 297  | 314  | 314  | 330  | 330  | 346  | 346  | 363  |
+
+| Speed | Minimum weight      | Mining efficiency |
+| ----- | ------------------- | ----------------- |
+| 70    | 15 (Dominators: 14) | 50%               |
+
+- Damages enemy equipment by percentage equal to the damage dealt.
+
 
 ### Atomic Vision
 
