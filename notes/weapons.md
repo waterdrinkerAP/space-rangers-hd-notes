@@ -42,9 +42,21 @@ Weapons can be used for mining asteroids but some are better at it than others.
 
 - Each shot slows down the enemy by a percentage equal to the damage dealt.  
   This effect alone can not slow a ship down below 50% of its base speed.
-- Each shot drains life proportional to the damage dealt. Exact ratio unknown.
+- Each shot drains life equal to the damage dealt.
 
 ### Wave Phaser
+
+| Class      | A     | B     | C     | D     | E     | F     | G     | H     |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Damage** | 20-30 | 22-33 | 23-34 | 24-36 | 25-38 | 26-39 | 30-45 | 36-54 |
+| **Range**  | 216   | 228   | 228   | 240   | 240   | 252   | 252   | 264   |
+
+| Speed | Minimum weight      | Mining efficiency |
+| ----- | ------------------- | ----------------- |
+| 90    | 20 (Dominators: 18) | 16%               |
+
+- Hits 3 targets in a chain, receiving 100%, 75% and 50% damage respectively.
+- Deals 150% damage if it hits only a single target.
 
 ### Electronic Cutter
 
