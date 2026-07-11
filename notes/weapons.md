@@ -82,7 +82,27 @@ with the further advancement of the galaxy's technology level.
 
 ### Atomic Vision
 
-### Desintegrator
+| Class      | A     | B     | C     | D     | E     | F     | G     | H     |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Damage** | 30-45 | 33-49 | 34-52 | 36-54 | 38-56 | 39-58 | 40-61 | 42-63 |
+| **Range**  | 288   | 304   | 304   | 320   | 320   | 336   | 336   | 352   |
+
+| TL  | Speed | Minimum weight      | Mining efficiency |
+| --- | ----- | ------------------- | ----------------- |
+| 7   | 55    | 40 (Dominators: 36) | 16%               |
+
+- Destroys objects and damages enemies in radius of 100 around the main target.
+
+### Disintegrator
+
+| Class      | A     | B     | C     | D     | E     | F     | G     | H     |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Damage** | 25-50 | 27-55 | 29-58 | 30-60 | 31-62 | 32-65 | 34-68 | 35-70 |
+| **Range**  | 342   | 361   | 361   | 380   | 380   | 399   | 399   | 418   |
+
+| TL  | Speed | Minimum weight      | Mining efficiency |
+| --- | ----- | ------------------- | ----------------- |
+| 7   | 95    | 45 (Dominators: 41) | 25%               |
 
 ### Turbogravir
 
