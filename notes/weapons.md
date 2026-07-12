@@ -106,6 +106,19 @@ with the further advancement of the galaxy's technology level.
 
 ### Turbogravir
 
+| Class      | A     | B     | C     | D     | E     | F     | G     | H     |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Damage** | 40-60 | 44-66 | 46-69 | 48-72 | 50-75 | 52-78 | 54-81 | 56-84 |
+| **Range**  | 288   | 304   | 304   | 320   | 320   | 336   | 336   | 352   |
+
+| TL  | Speed | Minimum weight      | Mining efficiency |
+| --- | ----- | ------------------- | ----------------- |
+| 8   | 100   | 50 (Dominators: 45) | 50%               |
+
+- Killing an enemy with turbogravir deals 10% of the enemy's mass as damage to
+  enemies in a 200 radius of the initial target. Enemies killed by the splash
+  also trigger the effect. There is no limit to how many times this can happen.
+
 ### Vertix
 
 ### Caphasitor
