@@ -121,6 +121,17 @@ with the further advancement of the galaxy's technology level.
 
 ### Vertix
 
+| Class      | A     | B     | C     | D     | E     | F     | G      | H      |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ------ | ------ |
+| **Damage** | 18-40 | 20-44 | 22-50 | 25-56 | 32-72 | 40-88 | 47-104 | 54-120 |
+| **Range**  | 297   | 314   | 314   | 330   | 330   | 346   | 346    | 363    |
+
+| TL  | Speed | Minimum weight  | Mining efficiency |
+| --- | ----- | --------------- | ----------------- |
+| 9   | 45    | Dominators: 148 | 16%               |
+
+- Hits all enemies in its range
+
 ### Caphasitor
 
 ## Fragmentation Weapons
