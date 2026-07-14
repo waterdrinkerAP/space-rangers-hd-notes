@@ -147,6 +147,7 @@ with the further advancement of the galaxy's technology level.
   damage even when not hit based on their ionization level. Each turn the ship
   is not hit its ionization level lowers. Ionization can lower a ships hull but
   it can not destroy it.
+- Iron Zoopie artifact lowers ionization 50% faster (100% for black hole hulls).
 
 ## Fragmentation Weapons
 
