@@ -134,6 +134,20 @@ with the further advancement of the galaxy's technology level.
 
 ### Caphasitor
 
+| Class      | A    | B    | C    | D    | E    | F    | G    | H    |
+| ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Damage** | 1-35 | 1-38 | 1-40 | 1-42 | 1-44 | 1-46 | 2-52 | 2-70 |
+| **Range**  | 297  | 314  | 314  | 330  | 330  | 346  | 346  | 363  |
+
+| TL  | Speed | Minimum weight | Mining efficiency |
+| --- | ----- | -------------- | ----------------- |
+| 3   | 70    | Pirate: 25     | 50%               |
+
+- Each hit increases the targets ionization level. Ionized targets receive
+  damage even when not hit based on their ionization level. Each turn the ship
+  is not hit its ionization level lowers. Ionization can lower a ships hull but
+  it can not destroy it.
+
 ## Fragmentation Weapons
 
 ### Fragmentation Cannon
