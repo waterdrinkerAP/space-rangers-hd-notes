@@ -153,6 +153,15 @@ with the further advancement of the galaxy's technology level.
 
 ### Fragmentation Cannon
 
+| Class      | A     | B     | C     | D     | E     | F     | G     | H     |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Damage** | 15-25 | 18-30 | 21-35 | 24-40 | 27-45 | 30-50 | 33-55 | 36-60 |
+| **Range**  | 216   | 228   | 228   | 240   | 240   | 252   | 252   | 264   |
+
+| TL  | Speed | Minimum weight      | Mining efficiency |
+| --- | ----- | ------------------- | ----------------- |
+| 2   | 60    | 20 (Dominators: 18) | 20%               |
+
 ### Flow Blaster
 
 ### Multi-resonator
