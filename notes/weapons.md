@@ -34,6 +34,22 @@ with the further advancement of the galaxy's technology level.
 | --- | ----- | ------------------- | ----------------- |
 | 3   | 80    | 25 (Dominators: 23) | 25%               |
 
+### Caphasitor
+
+| Class      | A    | B    | C    | D    | E    | F    | G    | H    |
+| ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Damage** | 1-35 | 1-38 | 1-40 | 1-42 | 1-44 | 1-46 | 2-52 | 2-70 |
+| **Range**  | 297  | 314  | 314  | 330  | 330  | 346  | 346  | 363  |
+
+| TL  | Speed | Minimum weight | Mining efficiency |
+| --- | ----- | -------------- | ----------------- |
+| 3   | 70    | Pirate: 25     | 50%               |
+
+- Each hit increases the targets ionization level. Ionized targets receive
+  damage even when not hit based on their ionization level. Each turn the ship
+  is not hit its ionization level lowers. Ionization can lower a ships hull but
+  it can not destroy it.
+- Iron Zoopie artifact lowers ionization 50% faster (100% for black hole hulls).
 
 ### Treton
 
@@ -132,22 +148,6 @@ with the further advancement of the galaxy's technology level.
 
 - Hits all enemies in its range
 
-### Caphasitor
-
-| Class      | A    | B    | C    | D    | E    | F    | G    | H    |
-| ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **Damage** | 1-35 | 1-38 | 1-40 | 1-42 | 1-44 | 1-46 | 2-52 | 2-70 |
-| **Range**  | 297  | 314  | 314  | 330  | 330  | 346  | 346  | 363  |
-
-| TL  | Speed | Minimum weight | Mining efficiency |
-| --- | ----- | -------------- | ----------------- |
-| 3   | 70    | Pirate: 25     | 50%               |
-
-- Each hit increases the targets ionization level. Ionized targets receive
-  damage even when not hit based on their ionization level. Each turn the ship
-  is not hit its ionization level lowers. Ionization can lower a ships hull but
-  it can not destroy it.
-- Iron Zoopie artifact lowers ionization 50% faster (100% for black hole hulls).
 
 ## Fragmentation Weapons
 
@@ -163,6 +163,15 @@ with the further advancement of the galaxy's technology level.
 | 2   | 60    | 20 (Dominators: 18) | 20%               |
 
 ### Flow Blaster
+
+| Class      | A     | B     | C     | D     | E     | F     | G     | H     |
+| ---------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Damage** | 10-40 | 11-44 | 12-46 | 12-48 | 12-50 | 13-52 | 15-60 | 17-68 |
+| **Range**  | 306   | 323   | 323   | 340   | 340   | 357   | 357   | 374   |
+
+| TL  | Speed | Minimum weight      | Mining efficiency |
+| --- | ----- | ------------------- | ----------------- |
+| 5   | 75    | 30 (Dominators: 27) | 20%               |
 
 ### Multi-resonator
 
